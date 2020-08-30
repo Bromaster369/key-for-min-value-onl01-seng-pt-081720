@@ -8,5 +8,6 @@ name_hash.each do |key, value|
     return value
   else min_value = {} 
     return nil
+    end
   end 
 end
